@@ -4,15 +4,15 @@
 #
 required node.js version 12.14.1 or up
 
+# on mac/linux:
+### sudo npm i -g expo-cli
+
 # npm:
 ### npm install react-native-gifted-chat --save
 
 
 # to run:
 ### npm start
-
-# on mac/linux:
-### sudo npm i -g expo-cli
 
 # app:
 ### expo client
