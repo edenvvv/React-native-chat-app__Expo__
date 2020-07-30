@@ -1,5 +1,5 @@
 # Preview:
-<img src="https://github.com/edenvvv/React-native-chat-app__Expo__/blob/master/How_does_it_look/Chat_screen.jpg" width="200" height="400" />
+<img src="https://github.com/edenvvv/React-native-chat-app__Expo__/blob/master/How_does_it_look/Chat_screen.jpg" width="300" height="600" />
 #
 required node.js version 12.14.1 or up
 
