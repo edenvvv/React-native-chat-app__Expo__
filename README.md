@@ -1,3 +1,4 @@
+(The examples are presentations on the iPhone 11 but works perfect on all other devices)
 # Preview:
 <img src="https://github.com/edenvvv/React-native-chat-app__Expo__/blob/master/How_does_it_look/Chat_screen.jpg" width="300" height="600" />
 #
