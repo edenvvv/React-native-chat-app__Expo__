@@ -1,4 +1,4 @@
-import { StatusBar } from "expo-status-bar"; //uddi HOMO
+import { StatusBar } from "expo-status-bar"; 
 import * as React from "react";
 import {
   StyleSheet,
